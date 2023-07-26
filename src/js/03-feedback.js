@@ -28,6 +28,4 @@ function onPageLoad() {
   refs.form.elements.message.value = message || '';
 }
 onPageLoad(); 
-
-
-    
+   
